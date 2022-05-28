@@ -1,0 +1,6 @@
+[Server]
+HTTPHost = "0.0.0.0"       
+HTTPPort = 7788
+
+[Log]
+Filename = "./singer.log"
